@@ -111,7 +111,7 @@ The main purpose of this project is to build practical experience in Flutter dev
 
 **Awais Khan**
 
-Flutter Developer | Software Engineering Student
+Flutter Developer | Software Engineer
 
 ---
 
